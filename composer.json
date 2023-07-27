@@ -1,0 +1,21 @@
+{
+    "name": "tza/tza",
+    "description": "一个输出文字的包",
+    "autoload": {
+        "psr-4": {
+            "Tza\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "authors": [
+        {
+            "name": "丶之岸",
+            "email": "641593762@qq.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
